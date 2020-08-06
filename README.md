@@ -3,7 +3,7 @@
 
 <br />
 
-### I am currently a student and a hobby programmer. :computer:
+### I am currently a student and a hobby programmer.
 ---
 ### Languages and Tools:
 
@@ -21,3 +21,5 @@
 <br />
 
 ---
+
+### I am interested in working more on my backend developing skills. 
