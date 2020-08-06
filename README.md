@@ -1,8 +1,6 @@
 
 ### Hi, my name is Razvan, aka FlameFury20.
-
-<br />
-
+---
 ### I am currently a student and a hobby programmer.
 ---
 ### Languages and Tools:
@@ -23,3 +21,7 @@
 ---
 
 ### I am interested in working more on my backend developing skills. 
+
+<br />
+
+![FlameFury20's Github Stats](https://github-readme-stats.vercel.app/api?username=FlameFury20&show_icons=true&theme=radical)
