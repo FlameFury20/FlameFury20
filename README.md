@@ -30,4 +30,4 @@
 
 ### Listening to Spotify 🎧
 
-[![Spotify](https://rm5y4lct957kocffy2d15adlh.vercel.app/api/spotify)](https://open.spotify.com/user/rm5y4lct957kocffy2d15adlh)
+[![Spotify](https://FlameFury.vercel.app/api/spotify)](https://open.spotify.com/user/FlameFury)
