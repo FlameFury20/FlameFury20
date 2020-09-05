@@ -1,7 +1,7 @@
 
-### Hi, my name is Razvan, aka FlameFury20. :wave:
+### Hi, my name is Razvan, aka FlameFury20. 👋
 ---
-### I am currently a student and a hobby programmer. :computer:
+### I am currently a student and a hobby programmer. 💻
 ---
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
@@ -22,12 +22,14 @@
 <br />
 
 ---
-### I am interested in working more on my backend developing skills. 
+### I am interested in working more on my backend developing skills 🏫
 
 <br />
 
 ![FlameFury20's Github Stats](https://github-readme-stats.vercel.app/api?username=FlameFury20&show_icons=true&theme=algolia)
 
 ### Listening to Spotify 🎧
+
+<br />
 
 [![Spotify](https://spotify.flamefury20.vercel.app/api/spotify)](https://open.spotify.com/user/rm5y4lct957kocffy2d15adlh)
