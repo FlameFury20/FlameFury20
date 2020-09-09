@@ -28,6 +28,11 @@
 
 ![FlameFury20's Github Stats](https://github-readme-stats.vercel.app/api?username=FlameFury20&show_icons=true&theme=algolia)
 
+---
+### Social Media 📱
+
+[![Instagram](https://www.instagram.com/razvan.horja/)](https://www.instagram.com/razvan.horja/)<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+
 ### Listening to Spotify 🎧
 
 <br />
